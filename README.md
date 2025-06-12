@@ -1,16 +1,16 @@
 # todoapp
 
+glenn Valentino Yabes Tampang 
+
 A new Flutter project.
 
-## Getting Started
+sebuah projek untuk melakukan hal apa saja yang akan dilakukan dengan membuat jadwal agar tidak lupa dengan hal tersebut
 
-This project is a starting point for a Flutter application.
+teknologi yang digunakan adalah framework flutter dengan integrasi firebase
 
-A few resources to get you started if this is your first Flutter project:
+untuk menjalankan aplikasi
+- clone dari github
+- flutter pub get
+- flutterfire configure
+- flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
